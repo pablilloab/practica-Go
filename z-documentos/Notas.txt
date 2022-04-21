@@ -1,0 +1,19 @@
+Todos los archivos de Go deben pertenecer a un paquete.
+import Importa los paquetes necesarios
+
+Modificadores de acceso
+Si nombro una variable en Minusculas es PRIVADO var noPublica string
+Si nombre una variable en Mayusculas es PUBLICA var Publica string
+
+
+Entry point 
+La funcion main () es el punto de entreda en Go
+
+func main() {
+}
+
+Las variables pueden declararse com python saludo := "Hola"
+Como JS var saludo = "Hola"
+
+Para imprimir 
+fmt.Println(saludo, saludo2)

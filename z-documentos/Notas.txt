@@ -17,3 +17,6 @@ Como JS var saludo = "Hola"
 
 Para imprimir 
 fmt.Println(saludo, saludo2)
+
+
+https://pkg.go.dev/std DOCUMENTACION

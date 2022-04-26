@@ -39,5 +39,6 @@ func main() {
 	igv := precio + (precio * 0.18)
 
 	fmt.Printf("El valor de venta es de %f ", igv)
+	fmt.Printf("El valor de venta es de %f ", igv)
 
 }
